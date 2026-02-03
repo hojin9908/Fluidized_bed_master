@@ -1,0 +1,27 @@
+DEM 관련 변수들 (rad,ri,wx,wy,wz,torqx,torqy,torqz,dem_idx, ct_idx,del_s)은 Pa1, Pa3에 나누어서 넣음
+DEM 임자들은 p_type 1000보다 크게 해야할 듯 우선은 DEM_solid 1001 로 (#define DEM_SOLID 1001)
+DEM 입자 힘 계산하는거나 boundary 함수들은 별도의 헤더를 만드는 것이 좋을 듯 (function_DEM.cuh)
+functions_PROP.cuh 함수에 poisson_ratio(temp,p_type) 및 youngs_modulus(temp,p_type) 함수 만듦
+input read index 새로 지정 (inp_rad 27, inp_ri 28, inp_demidx 29, inp_wx 30, inp_wy 31, inp_wz 32)
+알고리즘 : SPH 입자간 힘 계산(Interaction)  ->  DEM 입자간 힘 계산(DEM_Interaction)  ->  상호작용력(SPH_DEM_interaction)
+따라서 기존 KERNEL_interaction2D, 3D 함수에는 p_type이 1000보다 크면 return 하도록..!!
+KERNEL_prep2D,prep3D도 마찬가지.. 그 외 다른 모든 기존 함수들도 마찬가지..!!
+funcions_DEM_BC 별도의 헤더 만들어서 경계조건 적용
+
+
+** COUPLING
+
+class_Cuda_Particle_array에 DEMpor 변수 생성
+PREP_coupling 함수에서 공극률, DEM입자 기준 filter 계산
+밀도 계산 함수에서 공극률이 곱해진 밀도로 계산 (DEM입자가 없으면 공극률이 1이라 알아서 계산됨)
+압력계산(KERNEL_EOS) 분모에 공극률을 곱해줌 (DEM 입자가 없으면 공극률이 1이라 알아서 계산됨)
+KERNEL_interaction 함수에서 바뀐 밀도로 압력힘 계산 (사실 건드려줄건 없을듯)
+KERNEL_DEM_interaction 함수에서 입자간 충돌 계산
+KERNEL_DEM_coupling 함수에서 SPH 입자에 의한 DEM 입자 힘 계산 (토크는 잘 모르겠네..)
+---> 이 때 DEM 입자당 interaction 힘의 합력 Fxd,Fyd,Fzd 계산
+KERNEL_SPH_coupling 함수에서 위 힘(Fxd,Fyd,Fzd) 가지고 상호작용력 계산
+끝
+
+** 주의해야할 점 **
+p2p_Pa3의 존재... torqx,torqy,torqz 여기 이씀
+마지막에 WCSPH_calc에 바뀐 알고리즘 적용해줘야됨!! (자주 까먹음)

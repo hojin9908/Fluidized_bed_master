@@ -459,7 +459,7 @@ void save_plot_fluid_vtk_bin_fluid_sph(part1*P1,part2*P2,part3*P3)
 
 	// Filename: It should be series of frame numbers(nameXXX.vtk) for the sake of auto-reading in PARAVIEW.
 	char FileName_vtk[256];
-	sprintf(FileName_vtk,"./plotdata/sphfluid_decouple%d_%dstp.vtk",decouple_stride,count);
+	sprintf(FileName_vtk,"./plotdata/sphfluid_decouple%d_dt%.0E_%dstp.vtk",decouple_stride,dt,count);
 	// If the file already exists,its contents are discarded and create the new one.
 	FILE*outFile_vtk;
 	outFile_vtk=fopen(FileName_vtk,"w");

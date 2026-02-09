@@ -981,8 +981,8 @@ __global__ void KERNEL_DEM_coupling3D_dem(int_t inout,int_t*g_str_dem,int_t*g_en
 
 		Ref=di*mag_uijf*pori/(vis_kif+1.0e-15);
 		Cdf=(0.63+4.8/sqrt(Ref))*(0.63+4.8/sqrt(Ref));
-		//betaf=3.7-0.65*exp(-(1.5-log10(Ref))*(1.5-log10(Ref))/2.0);
-		betaf=2.65*(1.0+pori)-(5.3-3.5*pori)*pori*pori*exp(-(1.5-log10(Ref))*(1.5-log10(Ref))/2.0);
+		betaf=3.7-0.65*exp(-(1.5-log10(Ref))*(1.5-log10(Ref))/2.0);
+		// betaf=2.65*(1.0+pori)-(5.3-3.5*pori)*pori*pori*exp(-(1.5-log10(Ref))*(1.5-log10(Ref))/2.0);
 
 
 		Real SPH_filter=flt_fluid + flt_air;

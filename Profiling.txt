@@ -1,0 +1,10 @@
+# How to Profile SOPHIA_gpu Application
+export CUDA_VISIBLE_DEVICES=1
+
+# Nsight System profiling
+nsys profile ./SOPHIA_gpu 1
+nsys profile -o nsys_report_original ./SOPHIA_gpu 1
+nsys profile -o nsys_report_original --trace=cuda,nvtx,osrt --cuda-memory-usage=true --force-overwrite=true ./SOPHIA_gpu 1
+
+# Nsight Compute profiling
+ncu -o ncu_report_original --set full ./SOPHIA_gpu 1

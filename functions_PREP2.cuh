@@ -3198,7 +3198,7 @@ __global__ void KERNEL_clc_prep3D_coupling_sph(int_t*g_str_sph,int_t*g_end_sph,p
 	int_t icell,jcell,kcell;
 	int_t ptypei=P1_sph[i].p_type;
 
-	P1[i].dDEMpor_prev = P1[i].dDEMpor;
+	P1_sph[i].dDEMpor_prev = P1_sph[i].dDEMpor;
 
 	Real xi,yi,zi;
 	Real mi=P1_sph[i].m;
@@ -3207,11 +3207,10 @@ __global__ void KERNEL_clc_prep3D_coupling_sph(int_t*g_str_sph,int_t*g_end_sph,p
 	Real tmp_SPHflt, tmp_DEMflt,tmp_DEMfltd,tmp_por;				//tmp_filter, tmp_porosity(DEM calculation)
 	Real tmp_DEMfltd_2;
 	Real tmp_dfltx, tmp_dflty, tmp_dfltz;
-	Real tmp_dwij;
+
 
 
 	tmp_dfltx=0.0; tmp_dflty=0.0; tmp_dfltz=0.0;
-	tmp_dwij=0.0;
 
 	xi=P1_sph[i].x;
 	yi=P1_sph[i].y;
@@ -3307,7 +3306,9 @@ __global__ void KERNEL_clc_prep3D_coupling_sph(int_t*g_str_sph,int_t*g_end_sph,p
 					for(int_t j=g_str_dem[k];j<fend;j++){
 
 						Real tmp_wij,tdist;
+						Real tmp_dwij;
 						Real xj,yj,zj;
+						Real tdwx,tdwy,tdwz;
 
 
 						xj=P1_dem[j].x;
@@ -3320,19 +3321,23 @@ __global__ void KERNEL_clc_prep3D_coupling_sph(int_t*g_str_sph,int_t*g_end_sph,p
 						if(tdist<search_range){
 
 							tmp_wij=calc_kernel_wij(tmp_A,1.0*tmp_h,tdist);
-							tmp_dwij=clac_kernel_dwij(tmp_A,1.0*tmp_h,tdist);
+							tmp_dwij=calc_kernel_dwij(tmp_A,1.0*tmp_h,tdist);
 
 							tdwx=tmp_dwij*(xi-xj)/tdist;
 							tdwy=tmp_dwij*(yi-yj)/tdist;
 							tdwz=tmp_dwij*(zi-zj)/tdist;
 
 							Real mj,rhoj,radj;
+							Real uxj, uyj, uzj;
 							int_t ptypej;
 
 							mj=P1_dem[j].m;
 							rhoj=P1_dem[j].rho;
 							radj=P1_dem[j].rad;
 							ptypej=P1_dem[j].p_type;
+							uxj=P1_dem[j].ux;
+							uyj=P1_dem[j].uy;
+							uzj=P1_dem[j].uz;
 
 							if (ptypei<=1000){
 								if(ptypej>1000){

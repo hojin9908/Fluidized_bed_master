@@ -50,7 +50,7 @@ density-convergence criterion								0.005
 pressure-relaxation factor									1
   
 
-time-step (sec): 											5.0e-8  
+time-step (sec): 											5.0e-7  
 start-time (sec):											0.0
 end-time (sec):												5.0  
   
@@ -61,7 +61,7 @@ neighbor cell type (3X3/5X5)								3X3
 filtering frequency: 										40
 density-renormalization frequency: 						1
 temperature-filtering frequency:							10
-plot-output frequency:									100000
+plot-output frequency:									10000
 plot-variables:                         3 rho pres p_type
 
 velocity-limit (m/s): 										40.0

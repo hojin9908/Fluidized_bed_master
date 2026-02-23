@@ -1090,4 +1090,646 @@ time = 0.100000
 
 2030000	 rho_max_dem=5700.00	u_max_dem= 1.19	ftotal_max_dem= 0.00
 
-2040000	 rho_max_sph= 1.78	u_max_
+2040000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161536.40
+
+2040000	 rho_max_dem=5700.00	u_max_dem= 1.23	ftotal_max_dem= 0.00
+
+2050000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160764.44
+
+2050000	 rho_max_dem=5700.00	u_max_dem= 1.25	ftotal_max_dem= 0.00
+
+2060000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160841.63
+
+2060000	 rho_max_dem=5700.00	u_max_dem= 1.26	ftotal_max_dem= 0.00
+
+2070000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161183.17
+
+2070000	 rho_max_dem=5700.00	u_max_dem= 1.27	ftotal_max_dem= 0.00
+
+2080000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161189.82
+
+2080000	 rho_max_dem=5700.00	u_max_dem= 1.27	ftotal_max_dem= 0.00
+
+2090000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161107.78
+
+2090000	 rho_max_dem=5700.00	u_max_dem= 1.28	ftotal_max_dem= 0.00
+
+2100000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161333.88
+
+2100000	 rho_max_dem=5700.00	u_max_dem= 1.37	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.105000
+
+
+2110000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=162270.57
+
+2110000	 rho_max_dem=5700.00	u_max_dem= 1.39	ftotal_max_dem= 0.00
+
+2120000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161669.58
+
+2120000	 rho_max_dem=5700.00	u_max_dem= 1.38	ftotal_max_dem= 0.00
+
+2130000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161348.33
+
+2130000	 rho_max_dem=5700.00	u_max_dem= 1.41	ftotal_max_dem= 0.00
+
+2140000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=161818.69
+
+2140000	 rho_max_dem=5700.00	u_max_dem= 1.37	ftotal_max_dem= 0.00
+
+2150000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=314329.27
+
+2150000	 rho_max_dem=5700.00	u_max_dem= 1.42	ftotal_max_dem= 0.00
+
+2160000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=416298.46
+
+2160000	 rho_max_dem=5700.00	u_max_dem= 1.31	ftotal_max_dem= 0.00
+
+2170000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=544283.35
+
+2170000	 rho_max_dem=5700.00	u_max_dem= 1.44	ftotal_max_dem= 0.00
+
+2180000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=578310.06
+
+2180000	 rho_max_dem=5700.00	u_max_dem= 1.45	ftotal_max_dem= 0.00
+
+2190000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=382905.76
+
+2190000	 rho_max_dem=5700.00	u_max_dem= 1.47	ftotal_max_dem= 0.00
+
+2200000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=345085.99
+
+2200000	 rho_max_dem=5700.00	u_max_dem= 1.49	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.110000
+
+
+2210000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=202998.40
+
+2210000	 rho_max_dem=5700.00	u_max_dem= 1.39	ftotal_max_dem= 0.00
+
+2220000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=162899.57
+
+2220000	 rho_max_dem=5700.00	u_max_dem= 1.41	ftotal_max_dem= 0.00
+
+2230000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=164097.06
+
+2230000	 rho_max_dem=5700.00	u_max_dem= 1.41	ftotal_max_dem= 0.00
+
+2240000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=161114.23
+
+2240000	 rho_max_dem=5700.00	u_max_dem= 1.37	ftotal_max_dem= 0.00
+
+2250000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=163617.36
+
+2250000	 rho_max_dem=5700.00	u_max_dem= 1.34	ftotal_max_dem= 0.00
+
+2260000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=164100.86
+
+2260000	 rho_max_dem=5700.00	u_max_dem= 1.38	ftotal_max_dem= 0.00
+
+2270000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=162910.67
+
+2270000	 rho_max_dem=5700.00	u_max_dem= 1.43	ftotal_max_dem= 0.00
+
+2280000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=162161.92
+
+2280000	 rho_max_dem=5700.00	u_max_dem= 1.48	ftotal_max_dem= 0.00
+
+2290000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=162257.88
+
+2290000	 rho_max_dem=5700.00	u_max_dem= 1.23	ftotal_max_dem= 0.00
+
+2300000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=162568.36
+
+2300000	 rho_max_dem=5700.00	u_max_dem= 1.19	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.115000
+
+
+2310000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=161314.59
+
+2310000	 rho_max_dem=5700.00	u_max_dem= 1.39	ftotal_max_dem= 0.00
+
+2320000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=156133.73
+
+2320000	 rho_max_dem=5700.00	u_max_dem= 1.13	ftotal_max_dem= 0.00
+
+2330000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=159561.98
+
+2330000	 rho_max_dem=5700.00	u_max_dem= 1.20	ftotal_max_dem= 0.00
+
+2340000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=156841.51
+
+2340000	 rho_max_dem=5700.00	u_max_dem= 1.23	ftotal_max_dem= 0.00
+
+2350000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=157722.25
+
+2350000	 rho_max_dem=5700.00	u_max_dem= 1.24	ftotal_max_dem= 0.00
+
+2360000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=157833.57
+
+2360000	 rho_max_dem=5700.00	u_max_dem= 1.19	ftotal_max_dem= 0.00
+
+2370000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=159722.89
+
+2370000	 rho_max_dem=5700.00	u_max_dem= 1.15	ftotal_max_dem= 0.00
+
+2380000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=158865.55
+
+2380000	 rho_max_dem=5700.00	u_max_dem= 1.17	ftotal_max_dem= 0.00
+
+2390000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=158946.47
+
+2390000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+2400000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=155434.20
+
+2400000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.120000
+
+
+2410000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=153367.37
+
+2410000	 rho_max_dem=5700.00	u_max_dem= 1.08	ftotal_max_dem= 0.00
+
+2420000	 rho_max_sph= 1.78	u_max_sph=24.43	ftotal_max_sph=157182.34
+
+2420000	 rho_max_dem=5700.00	u_max_dem= 1.10	ftotal_max_dem= 0.00
+
+2430000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=156904.00
+
+2430000	 rho_max_dem=5700.00	u_max_dem= 1.17	ftotal_max_dem= 0.00
+
+2440000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=154676.37
+
+2440000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+2450000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=155760.65
+
+2450000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+2460000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=152988.00
+
+2460000	 rho_max_dem=5700.00	u_max_dem= 1.01	ftotal_max_dem= 0.00
+
+2470000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=154817.14
+
+2470000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+2480000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=152034.66
+
+2480000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+2490000	 rho_max_sph= 1.78	u_max_sph=24.44	ftotal_max_sph=149632.42
+
+2490000	 rho_max_dem=5700.00	u_max_dem= 0.84	ftotal_max_dem= 0.00
+
+2500000	 rho_max_sph= 1.78	u_max_sph=24.44	ftotal_max_sph=149937.18
+
+2500000	 rho_max_dem=5700.00	u_max_dem= 0.87	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.125000
+
+
+2510000	 rho_max_sph= 1.78	u_max_sph=24.44	ftotal_max_sph=203192.67
+
+2510000	 rho_max_dem=5700.00	u_max_dem= 0.85	ftotal_max_dem= 0.00
+
+2520000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=155706.61
+
+2520000	 rho_max_dem=5700.00	u_max_dem= 0.84	ftotal_max_dem= 0.00
+
+2530000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=147938.40
+
+2530000	 rho_max_dem=5700.00	u_max_dem= 0.82	ftotal_max_dem= 0.00
+
+2540000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=167328.30
+
+2540000	 rho_max_dem=5700.00	u_max_dem= 0.83	ftotal_max_dem= 0.00
+
+2550000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=174991.36
+
+2550000	 rho_max_dem=5700.00	u_max_dem= 0.85	ftotal_max_dem= 0.00
+
+2560000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=210138.12
+
+2560000	 rho_max_dem=5700.00	u_max_dem= 0.80	ftotal_max_dem= 0.00
+
+2570000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=324103.25
+
+2570000	 rho_max_dem=5700.00	u_max_dem= 0.81	ftotal_max_dem= 0.00
+
+2580000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=402346.89
+
+2580000	 rho_max_dem=5700.00	u_max_dem= 0.81	ftotal_max_dem= 0.00
+
+2590000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=435501.07
+
+2590000	 rho_max_dem=5700.00	u_max_dem= 0.80	ftotal_max_dem= 0.00
+
+2600000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=495367.75
+
+2600000	 rho_max_dem=5700.00	u_max_dem= 0.81	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.130000
+
+
+2610000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=583274.16
+
+2610000	 rho_max_dem=5700.00	u_max_dem= 0.82	ftotal_max_dem= 0.00
+
+2620000	 rho_max_sph= 1.78	u_max_sph=24.42	ftotal_max_sph=630403.67
+
+2620000	 rho_max_dem=5700.00	u_max_dem= 0.84	ftotal_max_dem= 0.00
+
+2630000	 rho_max_sph= 1.78	u_max_sph=24.43	ftotal_max_sph=609885.22
+
+2630000	 rho_max_dem=5700.00	u_max_dem= 0.85	ftotal_max_dem= 0.00
+
+2640000	 rho_max_sph= 1.78	u_max_sph=24.43	ftotal_max_sph=545899.35
+
+2640000	 rho_max_dem=5700.00	u_max_dem= 0.86	ftotal_max_dem= 0.00
+
+2650000	 rho_max_sph= 1.78	u_max_sph=24.43	ftotal_max_sph=486514.97
+
+2650000	 rho_max_dem=5700.00	u_max_dem= 0.83	ftotal_max_dem= 0.00
+
+2660000	 rho_max_sph= 1.78	u_max_sph=24.43	ftotal_max_sph=394969.81
+
+2660000	 rho_max_dem=5700.00	u_max_dem= 0.79	ftotal_max_dem= 0.00
+
+2670000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=355805.59
+
+2670000	 rho_max_dem=5700.00	u_max_dem= 0.69	ftotal_max_dem= 0.00
+
+2680000	 rho_max_sph= 1.78	u_max_sph=24.41	ftotal_max_sph=388142.54
+
+2680000	 rho_max_dem=5700.00	u_max_dem= 0.73	ftotal_max_dem= 0.00
+
+2690000	 rho_max_sph= 1.78	u_max_sph=24.40	ftotal_max_sph=284809.78
+
+2690000	 rho_max_dem=5700.00	u_max_dem= 0.71	ftotal_max_dem= 0.00
+
+2700000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=246884.32
+
+2700000	 rho_max_dem=5700.00	u_max_dem= 0.72	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.135000
+
+
+2710000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=223360.39
+
+2710000	 rho_max_dem=5700.00	u_max_dem= 0.79	ftotal_max_dem= 0.00
+
+2720000	 rho_max_sph= 1.78	u_max_sph=24.38	ftotal_max_sph=189104.08
+
+2720000	 rho_max_dem=5700.00	u_max_dem= 0.79	ftotal_max_dem= 0.00
+
+2730000	 rho_max_sph= 1.78	u_max_sph=24.38	ftotal_max_sph=160576.73
+
+2730000	 rho_max_dem=5700.00	u_max_dem= 0.80	ftotal_max_dem= 0.00
+
+2740000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=156340.33
+
+2740000	 rho_max_dem=5700.00	u_max_dem= 0.81	ftotal_max_dem= 0.00
+
+2750000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=156998.63
+
+2750000	 rho_max_dem=5700.00	u_max_dem= 0.82	ftotal_max_dem= 0.00
+
+2760000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=157689.33
+
+2760000	 rho_max_dem=5700.00	u_max_dem= 0.83	ftotal_max_dem= 0.00
+
+2770000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=158524.29
+
+2770000	 rho_max_dem=5700.00	u_max_dem= 0.84	ftotal_max_dem= 0.00
+
+2780000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=158553.83
+
+2780000	 rho_max_dem=5700.00	u_max_dem= 0.85	ftotal_max_dem= 0.00
+
+2790000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=158887.74
+
+2790000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+2800000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=159190.99
+
+2800000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.140000
+
+
+2810000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=159487.73
+
+2810000	 rho_max_dem=5700.00	u_max_dem= 1.00	ftotal_max_dem= 0.00
+
+2820000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=159744.71
+
+2820000	 rho_max_dem=5700.00	u_max_dem= 1.01	ftotal_max_dem= 0.00
+
+2830000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160021.49
+
+2830000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+2840000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160314.99
+
+2840000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+2850000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160574.22
+
+2850000	 rho_max_dem=5700.00	u_max_dem= 1.06	ftotal_max_dem= 0.00
+
+2860000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160778.16
+
+2860000	 rho_max_dem=5700.00	u_max_dem= 1.07	ftotal_max_dem= 0.00
+
+2870000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160855.38
+
+2870000	 rho_max_dem=5700.00	u_max_dem= 1.09	ftotal_max_dem= 0.00
+
+2880000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160891.20
+
+2880000	 rho_max_dem=5700.00	u_max_dem= 1.10	ftotal_max_dem= 0.00
+
+2890000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160913.86
+
+2890000	 rho_max_dem=5700.00	u_max_dem= 1.12	ftotal_max_dem= 0.00
+
+2900000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=160949.77
+
+2900000	 rho_max_dem=5700.00	u_max_dem= 1.13	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.145000
+
+
+2910000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161005.97
+
+2910000	 rho_max_dem=5700.00	u_max_dem= 1.15	ftotal_max_dem= 0.00
+
+2920000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161021.27
+
+2920000	 rho_max_dem=5700.00	u_max_dem= 1.16	ftotal_max_dem= 0.00
+
+2930000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161013.88
+
+2930000	 rho_max_dem=5700.00	u_max_dem= 1.16	ftotal_max_dem= 0.00
+
+2940000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161028.85
+
+2940000	 rho_max_dem=5700.00	u_max_dem= 1.15	ftotal_max_dem= 0.00
+
+2950000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161051.65
+
+2950000	 rho_max_dem=5700.00	u_max_dem= 1.15	ftotal_max_dem= 0.00
+
+2960000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161060.57
+
+2960000	 rho_max_dem=5700.00	u_max_dem= 1.14	ftotal_max_dem= 0.00
+
+2970000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161062.01
+
+2970000	 rho_max_dem=5700.00	u_max_dem= 1.14	ftotal_max_dem= 0.00
+
+2980000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161060.68
+
+2980000	 rho_max_dem=5700.00	u_max_dem= 1.13	ftotal_max_dem= 0.00
+
+2990000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161050.37
+
+2990000	 rho_max_dem=5700.00	u_max_dem= 1.13	ftotal_max_dem= 0.00
+
+3000000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161033.63
+
+3000000	 rho_max_dem=5700.00	u_max_dem= 1.12	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.150000
+
+
+3010000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161020.85
+
+3010000	 rho_max_dem=5700.00	u_max_dem= 1.12	ftotal_max_dem= 0.00
+
+3020000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161031.11
+
+3020000	 rho_max_dem=5700.00	u_max_dem= 1.12	ftotal_max_dem= 0.00
+
+3030000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161037.32
+
+3030000	 rho_max_dem=5700.00	u_max_dem= 1.11	ftotal_max_dem= 0.00
+
+3040000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161038.52
+
+3040000	 rho_max_dem=5700.00	u_max_dem= 1.11	ftotal_max_dem= 0.00
+
+3050000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161029.13
+
+3050000	 rho_max_dem=5700.00	u_max_dem= 1.10	ftotal_max_dem= 0.00
+
+3060000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.72
+
+3060000	 rho_max_dem=5700.00	u_max_dem= 1.10	ftotal_max_dem= 0.00
+
+3070000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.40
+
+3070000	 rho_max_dem=5700.00	u_max_dem= 1.09	ftotal_max_dem= 0.00
+
+3080000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.11
+
+3080000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3090000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161025.72
+
+3090000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3100000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161020.92
+
+3100000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.155000
+
+
+3110000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161024.21
+
+3110000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3120000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.63
+
+3120000	 rho_max_dem=5700.00	u_max_dem= 1.06	ftotal_max_dem= 0.00
+
+3130000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161023.44
+
+3130000	 rho_max_dem=5700.00	u_max_dem= 1.09	ftotal_max_dem= 0.00
+
+3140000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161021.80
+
+3140000	 rho_max_dem=5700.00	u_max_dem= 1.12	ftotal_max_dem= 0.00
+
+3150000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161030.32
+
+3150000	 rho_max_dem=5700.00	u_max_dem= 1.14	ftotal_max_dem= 0.00
+
+3160000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.99
+
+3160000	 rho_max_dem=5700.00	u_max_dem= 1.01	ftotal_max_dem= 0.00
+
+3170000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.39
+
+3170000	 rho_max_dem=5700.00	u_max_dem= 1.02	ftotal_max_dem= 0.00
+
+3180000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161020.49
+
+3180000	 rho_max_dem=5700.00	u_max_dem= 1.02	ftotal_max_dem= 0.00
+
+3190000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.51
+
+3190000	 rho_max_dem=5700.00	u_max_dem= 1.02	ftotal_max_dem= 0.00
+
+3200000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161024.37
+
+3200000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.160000
+
+
+3210000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.79
+
+3210000	 rho_max_dem=5700.00	u_max_dem= 1.03	ftotal_max_dem= 0.00
+
+3220000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161023.35
+
+3220000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3230000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161023.29
+
+3230000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3240000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161018.91
+
+3240000	 rho_max_dem=5700.00	u_max_dem= 1.04	ftotal_max_dem= 0.00
+
+3250000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161020.52
+
+3250000	 rho_max_dem=5700.00	u_max_dem= 1.05	ftotal_max_dem= 0.00
+
+3260000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161023.86
+
+3260000	 rho_max_dem=5700.00	u_max_dem= 1.06	ftotal_max_dem= 0.00
+
+3270000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161026.08
+
+3270000	 rho_max_dem=5700.00	u_max_dem= 1.08	ftotal_max_dem= 0.00
+
+3280000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161024.90
+
+3280000	 rho_max_dem=5700.00	u_max_dem= 0.99	ftotal_max_dem= 0.00
+
+3290000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161023.36
+
+3290000	 rho_max_dem=5700.00	u_max_dem= 1.00	ftotal_max_dem= 0.00
+
+3300000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.63
+
+3300000	 rho_max_dem=5700.00	u_max_dem= 1.02	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.165000
+
+
+3310000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.63
+
+3310000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+3320000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161021.81
+
+3320000	 rho_max_dem=5700.00	u_max_dem= 0.94	ftotal_max_dem= 0.00
+
+3330000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.53
+
+3330000	 rho_max_dem=5700.00	u_max_dem= 0.94	ftotal_max_dem= 0.00
+
+3340000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161022.62
+
+3340000	 rho_max_dem=5700.00	u_max_dem= 0.95	ftotal_max_dem= 0.00
+
+3350000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161028.41
+
+3350000	 rho_max_dem=5700.00	u_max_dem= 0.95	ftotal_max_dem= 0.00
+
+3360000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161032.28
+
+3360000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+3370000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161037.40
+
+3370000	 rho_max_dem=5700.00	u_max_dem= 0.93	ftotal_max_dem= 0.00
+
+3380000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161030.94
+
+3380000	 rho_max_dem=5700.00	u_max_dem= 0.93	ftotal_max_dem= 0.00
+
+3390000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161021.33
+
+3390000	 rho_max_dem=5700.00	u_max_dem= 0.94	ftotal_max_dem= 0.00
+
+3400000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161014.33
+
+3400000	 rho_max_dem=5700.00	u_max_dem= 0.95	ftotal_max_dem= 0.00
+
+save plot...........................
+test Particle 4580
+time = 0.170000
+
+
+3410000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161016.67
+
+3410000	 rho_max_dem=5700.00	u_max_dem= 0.89	ftotal_max_dem= 0.00
+
+3420000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161019.13
+
+3420000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+3430000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161018.81
+
+3430000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+3440000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161017.45
+
+3440000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+3450000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161016.06
+
+3450000	 rho_max_dem=5700.00	u_max_dem= 0.98	ftotal_max_dem= 0.00
+
+3460000	 rho_max_sph= 1.78	u_max_sph=24.39	ftotal_max_sph=161012.99
+
+3460000	 rho_max_dem=5700.00	u_max_dem= 0.97	ftotal_max_dem= 0.00
+
+3470000	 rho_max_sph= 1.78	u_
